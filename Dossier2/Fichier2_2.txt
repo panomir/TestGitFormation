@@ -1,3 +1,6 @@
 fichier 2.2
 
 modif par git
+
+
+RESOLU
